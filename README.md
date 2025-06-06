@@ -36,7 +36,7 @@ bash
 Copiar
 Editar
 # Clone o repositório
-git clone https://github.com/seu-usuario/seletiva-investimentos.git
+git clone (https://github.com/EriclysLuckas/seletiva-investimentos)
 
 # Acesse a pasta do frontend
 cd seletiva-investimentos/frontend
