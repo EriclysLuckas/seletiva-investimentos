@@ -1,0 +1,5 @@
+# Ignora dependências do Node.js
+node_modules/
+
+# Ignora arquivos de build do Next.js
+.next/
