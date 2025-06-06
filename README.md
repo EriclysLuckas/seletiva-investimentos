@@ -1,4 +1,4 @@
-#💼 Seletiva Investimentos
+
 
 #🐬 Backend + Banco de Dados (MySQL): Rodando em containers Docker
 
