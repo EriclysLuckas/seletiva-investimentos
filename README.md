@@ -82,5 +82,3 @@ Backend: Node.js, Fastify, Prisma, MySQL
 
 DevOps: Docker, Docker Compose
 
-📅 Prazo de entrega
-🗓 06/06 — Projeto entregue com todos os requisitos solicitados.
